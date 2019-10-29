@@ -5,3 +5,5 @@
 **Shares** (<u>OwnId</u>, <u>PropId</u>, StartWeek)
 FOREIGN KEY(OwnID) REFERENCES Owner
 FOREIGN KEY(PropID) REFERENCES Property
+
+this is the sixth question
